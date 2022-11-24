@@ -160,4 +160,4 @@ Please see the [contributing guidelines](CONTRIBUTING.md)
 
 This library is licensed under Apache 2.0. 
 
-Full license text is available in [LICENSE](LICENSE)
+Full license text is available in the [LICENSE](LICENSE)
